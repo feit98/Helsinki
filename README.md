@@ -27,3 +27,7 @@ There are 3 problems and one preparatory step in this week's exercise:
 
 ## 
 Start the exercise by opening **[this notebook](Exercise-2.ipynb)**.
+
+## Notes
+- teach more about command line commands
+- other note
